@@ -2,7 +2,8 @@
 ### WWDC22 Swift Student Challenge Submission [Accepted]
 
 Swift Playgrounds for learning and simulating synesthesia.\
-[Demo](https://youtu.be/bLVWnQGnx9s)
+[Demo](https://youtu.be/bLVWnQGnx9s) |
+[WWDC Scholars](https://www.wwdcscholars.com/s/3C274C5A-8479-4A7F-BE4F-FF17AFAD19FD/2022)
 
 ![Welcome](https://user-images.githubusercontent.com/62197228/173452118-4c8d1d00-4ed6-4161-9cdd-8ff6a695e5b1.JPG)
 
